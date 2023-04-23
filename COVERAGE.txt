@@ -1,0 +1,39 @@
+/*JS ROADMAP PRE- FINALS EXAM COVERAGE 
+1. BASICS
+    -variables and global variables
+    -data types
+    -operators
+    -if statements
+    -loop
+    -function
+
+2. OBJECTS
+    -array
+    -string
+    -date
+    -math
+
+3. BROWSER OBJECTS (BOM)
+    -alert
+
+4. DOM
+    -getElementById
+    -getElementByClassName()
+    -innerHTML property
+
+5. VALIDATION
+    -form validation
+
+6. EVENTS
+    -addEventListener()
+    -onclick
+
+*/
+RESOURCES:
+Links:
+https://javascript.info/
+https://www.javatpoint.com/javascript-tutorial
+
+JS Projects (IMPORTANT: For coding part)
+Links:
+https://github.com/Goddessri/HCI101-Pre-finals_Javascript-PROJECTS.git
