@@ -1,3 +1,16 @@
+/*
+Mobile Number Validator
+This project lets you find out if the mobile number you have entered is active and able to receive calls or not.
+
+Key concepts covered :-
+1.) document.querySelector()
+2.) test()
+3.) forEach()
+4.) DOM manipulation
+5.) event Listeners
+6.) innerHTML
+*/
+
 function mobileCheck(str) {
     let bracketCheck = /[(]\d{3}[)]/;
     let checkBeginning = /^([(]\d{3}[)])/;
