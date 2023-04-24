@@ -100,7 +100,7 @@ const questions = [
     question: 'Who is the best YouTuber?',
     answers: [
       { text: 'Web Dev Simplified', correct: true },
-      { text: 'Traversy Media', correct: true },
+      { text: 'Riane Billeras Channel', correct: true },
       { text: 'Dev Ed', correct: true },
       { text: 'Fun Fun Function', correct: true }
     ]
